@@ -7,5 +7,6 @@ int main()
     cout<<"Enter any number";
     cin>>a;
     cout<<"You entered : "<<a;
+    cout<<"Minor Changes";
     return 0;
 }
